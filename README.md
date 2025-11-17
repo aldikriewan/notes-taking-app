@@ -87,4 +87,4 @@ The backend provides the following endpoints to manage notes:
 
 ---
 
-Happy coding!
+aldikriewan
